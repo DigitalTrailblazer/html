@@ -10,6 +10,5 @@ HTML is the standard markup language used to create web pages. It is a foundatio
 Clone the Repository:
 
 git clone https://github.com/DigitalTrailblazer/html.git
-Navigate to the Repository:
 
 The notes are organized into different sections, each focusing on a specific aspect of HTML. Browse through the files to find the topics you are interested in.
